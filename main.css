@@ -1,0 +1,64 @@
+*{
+   margin-left: 1%;
+}
+#navbar{
+   display: flex;
+   height: 50%;
+   width: 100%;
+}
+#food{
+   font-size: 120%;
+
+}
+.cat{
+   margin-left: 58%;
+}
+.item{
+   margin-left: 3%;
+}
+#h3{
+   text-align: center;
+}
+.forms{
+    font-size: 16px;
+}
+.name{
+    width: 500px;
+    height: 20px;
+}
+.phno{
+   width: 500px; 
+   height: 20px;
+}
+.otp{
+   width: 100px; 
+   height: 20px;
+}
+.mail{
+   width: 500px; 
+   height: 20px;
+}
+.pswd{
+   width: 500px; 
+   height: 20px;
+}
+.date{
+   width: 300px; 
+   height: 20px;
+}
+.gender{
+   width: 10px; 
+   height: 10px;
+}
+.radio{
+   width: 10px; 
+   height: 10px;
+}
+.submit{
+    width: 60px;
+    height: auto;
+    background-color: aqua;
+}
+.btn{
+   font-size: larger;
+}
