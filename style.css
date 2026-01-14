@@ -1,0 +1,145 @@
+*{
+
+}
+@media(max-width:756px){
+    .header{
+    display: flex;
+    text-decoration: none;
+}
+.recipes{
+    font-size: xx-large;
+}
+.home{
+    margin-left: 40%;
+    font-size:15px;
+    text-decoration: none;
+    color: black;
+}
+.items{
+    text-decoration: none;
+    margin-left: 3%;
+    font-size:25px;
+    color: black;
+}
+#category{
+    text-decoration: none;
+    color: black;
+}
+}
+.header{
+    display: flex;
+    text-decoration: none;
+}
+.recipes{
+    font-size: xx-large;
+}
+.home{
+    margin-left: 40%;
+    font-size: 1.8rem;
+    text-decoration: none;
+    color: black;
+}
+.items{
+    text-decoration: none;
+    margin-left: 3%;
+    font-size: 1.8rem;
+    color: black;
+}
+#category{
+    text-decoration: none;
+    color: black;
+}
+.body{
+    margin-bottom: 0%;
+   
+}
+#h1{
+    text-align: center;
+}
+.nag{
+    display: flex;
+    margin-bottom: 0%;
+}
+.pub{
+    display: flex;
+    margin-top: 0%;
+}
+.img1{
+    margin-left: 15%;
+}
+.img5{
+    margin-left: 15%;
+}
+#images{
+    border-radius: 2%;
+}
+.img2{
+    
+}
+.img3{
+    margin-left: 15%;
+}
+.img7{
+    margin-left: 15%;
+}
+.img4{
+    margin-left: 12.5%;
+    
+}
+.imag8{
+    margin-left: 2%;
+}
+#name{
+    margin-left: 20%;
+    font-size: 20px;
+}
+#nam{
+    margin-left: 15%;
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+}
+.catgry{
+    font-size: 180%;
+}
+.footeritems{
+    text-decoration: none;
+    color:black;
+    margin-left: 2%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border: solid;
+    border: color( red green blue);
+    border-radius: 5%;
+    background-color: #0657ed;
+    font-size: 140%;
+}
+.foot{
+    margin-top: 2%;
+    text-decoration: none;
+}
+.footerpage2{
+    text-align: center;
+    text-decoration: none;
+}
+.footeritemspage2{
+    text-decoration: none;
+    color: black;
+    margin-left: 2%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border: solid;
+    border: color( red green blue);
+    border-radius: 5%;
+    background-color: #0657ed;
+    font-size: 140%;
+}
+.footpage2{
+    margin-top: 2%;
+    text-decoration: none;
+}
