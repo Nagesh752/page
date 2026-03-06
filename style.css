@@ -3,7 +3,7 @@
 }
 @media(max-width:756px){
     .header{
-    display: flex;
+    
     text-decoration: none;
 }
 .recipes{
@@ -27,7 +27,7 @@
 }
 }
 .header{
-    display: flex;
+    
     text-decoration: none;
 }
 .recipes{
@@ -143,3 +143,4 @@
     margin-top: 2%;
     text-decoration: none;
 }
+
