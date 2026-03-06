@@ -1,31 +1,4 @@
-*{
 
-}
-@media(max-width:756px){
-    .header{
-    
-    text-decoration: none;
-}
-.recipes{
-    font-size: xx-large;
-}
-.home{
-    margin-left: 40%;
-    font-size:15px;
-    text-decoration: none;
-    color: black;
-}
-.items{
-    text-decoration: none;
-    margin-left: 3%;
-    font-size:25px;
-    color: black;
-}
-#category{
-    text-decoration: none;
-    color: black;
-}
-}
 .header{
     
     text-decoration: none;
@@ -143,4 +116,5 @@
     margin-top: 2%;
     text-decoration: none;
 }
+
 
